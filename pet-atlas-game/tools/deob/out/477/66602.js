@@ -1,0 +1,1 @@
+module.exports = require.p + "img/253.a8a719b9.gif";

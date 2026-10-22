@@ -1,0 +1,1 @@
+module.exports = "data:image/gif;base64,R0lGODlhGQAZAKIHAGVwmlZRftGt2qua0OSv4/7dyP/50v///yH5BAEAAAcALAAAAAAZABkAAAOEeLrc/jDKSau9uOit7fiCYIyGNgBSMYSsSKonVBgtS5YqgDYzXbsvDYF3q91GG8JQ0Ts6gwXlovk8cqQHTfUJiy612xvshN08bbgP+dstsgac9ZIwjqs/SSUhsCAA8Bt3eHp6fAs6ABxjOoRKhgwBAY1+jI2PDpGSk4WXEZmfmRiiow0JADs=";
